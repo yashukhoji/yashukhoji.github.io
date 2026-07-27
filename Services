@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Services</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<h1>Our Services</h1>
+
+<ul>
+
+<li>Website Development</li>
+
+<li>Cloud Solutions</li>
+
+<li>IT Support</li>
+
+<li>Networking</li>
+
+</ul>
+
+<a href="index.html">Home</a>
+
+</body>
+</html>
